@@ -24,7 +24,7 @@ This repository contains the code for Stylish portfolio & Blog website .
 - Responsive design
 - Portfolio showcase
 - About Me section
-- Contact form
+- Contact 
 
 ## Use To Technology
 
