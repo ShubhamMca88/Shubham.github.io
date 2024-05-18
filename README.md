@@ -17,7 +17,7 @@
 
 ## Project title
 
-This repository contains the code for Stylish portfolio website .
+This repository contains the code for Stylish portfolio & Blog website .
 
 ## Features
 
